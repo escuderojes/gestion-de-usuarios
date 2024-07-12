@@ -8,7 +8,7 @@
     --image-bg: #f8f3ff;
 }
 
-body {
+.container-body {
     height: 100vh;
     font-family: 'Poppins', sans-serif;
     background-image: linear-gradient(to top, #210a55 0%, #c53434 100%);
